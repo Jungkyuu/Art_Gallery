@@ -8,6 +8,10 @@
  *
  *  Name: Jungkyu Mok Student ID: 161501226 Date: 2024.11.29
  *
+ * Vercel App (Deployed) server.js Link: https://web6-server.vercel.app
+ *
+ * Vercel App (Deployed) index.js Link: https://web6-main.vercel.app
+ *
  ********************************************************************************/
 
 import { Image, Row, Col } from "react-bootstrap";
